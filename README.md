@@ -9,4 +9,4 @@
 - 💬 Ask me about Webfundamentals (HTML, CSS, Javascript) & Python.
 - 📫 How to reach me: You can email me at zoemathias@yahoo.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Coding has become my bestfriend ever since I learn to write my first line of code!.
+- ⚡ Fun fact: Coding has become my bestfriend ever since I learned to write my first line of code!.
