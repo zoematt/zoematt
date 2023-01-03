@@ -1,6 +1,7 @@
  Hi, i'm Zoe Matthias 👋
  
- I'm a passionate full-stack developer based in New York!.
+ I'm a passionate full-stack developer based in New York who fell in love with coding! I enjoy learning new technologies. I came from a non-traditional background.
+
 
 - 🔭 I’m currently working on my next big project.
 - 🌱 I’m currently learning projects & algorithms.
